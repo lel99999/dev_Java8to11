@@ -35,3 +35,28 @@ Enter to keep the current selection[+], or type selection number: 2
 ```
 
 #### Notes
+- Java 8
+  - Lamda Expression
+  - Functional Interface
+  - Default Methods
+  - Predicate
+  - Streams
+
+- Java 9 (2017)
+  - Instance Private Methods and Static Private Methos
+  - Improved try with resource Blocks
+  - Immutable Collection
+  - @SafeVarargs Enhancement
+  - New Methods in Streaming API
+  - JSHELL
+  - Modules in Java 9
+  - Qualified Export
+
+- Java 10 (2018)
+  - Using Var keyword to declare variable
+  - Collectors API changes
+
+- Java 11 (2018)
+  - String API Updates
+  - File API UPdates
+  - IsEmpty() method on Optional Class
