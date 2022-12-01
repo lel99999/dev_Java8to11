@@ -52,6 +52,9 @@ Enter to keep the current selection[+], or type selection number: 2
   - Modules in Java 9
   - Qualified Export
 
+  - Links
+    [https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-9-improvements] (https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-9-improvements) <br/>
+
 - Java 10 (2018)
   - Using Var keyword to declare variable
   - Collectors API changes
